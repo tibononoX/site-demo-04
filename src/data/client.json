@@ -1,0 +1,53 @@
+{
+  "lang": "en",
+  "name": "Trim It Up",
+  "initial": "T",
+  "trade": "painter",
+  "tradeLabel": "Painting, remodeling & home inspection repairs · Carmel, IN",
+  "theme": { "mode": "light", "accent": "#4a687d", "display": "sans", "hero": "split" },
+  "hero": {
+    "eyebrow": "Trim It Up, LLC · Carmel, Indiana",
+    "title": "Painting and remodeling",
+    "titleEm": "for Hamilton County homes.",
+    "lead": "For over 20 years, Trim It Up LLC has been providing the greater Hamilton County area with exceptional service in the home improvement business.",
+    "image": "kitchen-hero.jpg",
+    "alt": "Bright kitchen with a dark island, white cabinets and pendant lights"
+  },
+  "rating": { "score": "4.6", "count": 18, "source": "Google" },
+  "services": {
+    "title": "One team for your home improvement",
+    "lead": "Professional interior and exterior painting, remodeling services and design, and home inspection repairs.",
+    "items": [
+      { "title": "Painting", "text": "Interior and exterior painting services for both residential and commercial properties. Painting is a quick way to freshen a room with your own personal flair." },
+      { "title": "Remodeling", "text": "A great way to reinvent and fall in love with your home all over again.", "bullets": ["Kitchens", "Bathrooms", "Basements", "And more"] },
+      { "title": "Home inspection repairs", "text": "Your one-stop shop for home inspection repairs and services. Whether you are buying or selling a home, we deliver on all aspects of home repairs." }
+    ]
+  },
+  "gallery": {
+    "title": "Our work",
+    "lead": "A preview of our latest jobs in Carmel, Westfield, Fishers and Indianapolis.",
+    "items": [
+      { "image": "burkwood-bath.jpg", "alt": "Bathroom with marble-look floor, freestanding tub and glass shower" },
+      { "image": "great-room.jpg", "alt": "Open-plan great room with dark wood floors and a gallery landing" },
+      { "image": "shower.jpg", "alt": "Tiled walk-in shower with a glass door" },
+      { "image": "kitchen-after.jpg", "alt": "White kitchen with granite island and stainless appliances" },
+      { "image": "vanity.jpg", "alt": "Double vanity with white cabinets and round mirrors" },
+      { "image": "exterior.jpg", "alt": "Rear of a two-storey home with a covered deck" }
+    ]
+  },
+  "steps": {
+    "title": "Getting started is simple",
+    "items": [
+      { "title": "Contact Gordie", "text": "Call Gordie Ranek directly at 317-403-7543 or send an email." },
+      { "title": "Get your free estimate", "text": "Tell us about your painting, remodeling or inspection repair project and we'll give you a free estimate." },
+      { "title": "Enjoy your home", "text": "We get the work done, inside or out." }
+    ]
+  },
+  "contact": {
+    "title": "Get your free estimate",
+    "lead": "Contact Gordie Ranek directly for a free estimate on painting, remodeling or home inspection repairs.",
+    "phones": [ { "label": "Call Gordie", "display": "317-403-7543", "tel": "+13174037543" } ],
+    "email": "gordie.ranek@trimitupllc.com",
+    "address": ["131 N. Rangeline Rd", "Carmel, IN 46032"]
+  }
+}
